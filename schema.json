@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "JESFEM Multiservice Limited",
+  "alternateName": "JESFEM",
+  "description": "JESFEM Multiservice Limited is a Lagos-based real estate and construction company providing property sales, off-plan investment opportunities, rentals, and property management services for local and diaspora investors.",
+  "url": "https://jesfem.com",
+  "areaServed": [
+    "Nigeria",
+    "United Kingdom",
+    "United States",
+    "Canada",
+    "Australia"
+  ],
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Lagos, Nigeria"
+  },
+  "industry": "Real Estate",
+  "knowsAbout": [
+    "Lagos real estate investment",
+    "off-plan property investment Nigeria",
+    "diaspora property investment Nigeria",
+    "property management Lagos",
+    "residential construction Lagos"
+  ],
+  "serviceArea": {
+    "@type": "Place",
+    "name": "Lagos, Nigeria"
+  }
+}
